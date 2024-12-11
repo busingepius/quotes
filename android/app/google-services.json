@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "668055911319",
+    "project_id": "wonder-quoter",
+    "storage_bucket": "wonder-quoter.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668055911319:android:77c3941d9b7aab192122d2",
+        "android_client_info": {
+          "package_name": "com.example.quoter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgQveQCzoFwljlHC5qWACf6SIYk5TKX6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
